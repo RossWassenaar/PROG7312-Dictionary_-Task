@@ -1,7 +1,7 @@
 # 🛒 Product Inventory Manager – C# Dictionary Application  
 ## PROG7312 Activity
 
-GitHub Submission Link: https://classroom.github.com/a/6J_G2A_A
+GitHub Submission Link: [https://classroom.github.com/a/6J_G2A_A](https://classroom50.org/EMKNDN/emkndn-prog7312-g2-2026/assignments/prog7312-ice-task-3/accept)
 ---
 
 ## 📘 Scenario
